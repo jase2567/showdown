@@ -3,9 +3,9 @@ WEBSOCKET_URI=sim.smogon.com:8000
 PS_USERNAME=PoodleForgery
 PS_PASSWORD=PikaPika
 BOT_MODE=CHALLENGE_USER
-POKEMON_MODE=gen8nationaldexag
+POKEMON_MODE=gen9nationaldexag
 RUN_COUNT=1
 
 USER_TO_CHALLENGE=CredoBro
-TEAM_NAME=gen8/nationaldexag/Giovanni
+TEAM_NAME=gen9/nationaldexag/Giovanni
 SAVE_REPLAY=True
