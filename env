@@ -7,5 +7,5 @@ POKEMON_MODE=gen8nationaldexag
 RUN_COUNT=1
 
 USER_TO_CHALLENGE=CredoBro
-TEAM_NAME=gen9/nationaldexag/Giovanni
+TEAM_NAME=gen8/nationaldexag/Giovanni
 SAVE_REPLAY=True
