@@ -1,6 +1,6 @@
 BATTLE_BOT=safest
 WEBSOCKET_URI=sim.smogon.com:8000
-PS_USERNAME=CredoBro
+PS_USERNAME=RainbowRoquette
 PS_PASSWORD=PikaPika
 BOT_MODE=CHALLENGE_USER
 POKEMON_MODE=gen9nationaldexag
